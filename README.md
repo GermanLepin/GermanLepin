@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is German, and I am a qualified and professional backend developer with strong creative, analytical, and technical skills. 
+In my current position, I have been designing cloud solutions as a Golang developer for almost two years.
+
+🛠 My Tech Stack
+- Golang
+- Kubernetes
+- Postgres
+- Kafka
+
+
 <!--
 **GermanLepin/GermanLepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
