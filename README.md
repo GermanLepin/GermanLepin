@@ -9,6 +9,8 @@ In my current position, I have been designing cloud solutions as a Golang develo
 - Postgres
 - Kafka
 
+My LinkedIn’s account: https://www.linkedin.com/in/german-lepin  
+
 
 <!--
 **GermanLepin/GermanLepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
