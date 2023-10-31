@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is German, and I am always fascinated with programming, reading, finance, business sports, ecology, and IT. I've been interested in how technology and our lives may be combined. The computer has always been my means of realising my ideas; it has given me a brand-new, incredible tool with which to create things that have never been done before. I found the ability to understand how to mix up business and IT really significant.
+My name is German, and I am always fascinated with programming, reading, finance, business, sports, ecology, and IT. I've been interested in how technology and our lives may be combined. The computer has always been my means of realising my ideas; it has given me a brand-new, incredible tool with which to create things that have never been done before. I found the ability to understand how to mix up business and IT really significant.
 
 I've been working in IT and software development since I started my job in 2020. I truly value the time I spent with such gifted and forgiving colleagues who helped me discover who I am. Please accept my sincere gratitude if any of those people are reading this. 
 
