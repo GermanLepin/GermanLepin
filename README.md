@@ -13,6 +13,8 @@ I always improve my engineering skills by solving different algorithmic tasks an
 - Kubernetes
 - Postgres
 - Kafka
+- Docker
+- AWS
 
 My LinkedIn’s account: https://www.linkedin.com/in/german-lepin  
 
